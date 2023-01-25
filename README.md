@@ -15,13 +15,13 @@ Review the code on the GitHub repository. The deployed site can be accessed at [
 The home page of the work day scheduler displays the current time and date. Users are provided with the ability to input their schedule, starting at any hour of the day. The schedule can be easily edited or deleted as needed and a refresh of the page will confirm if the data has been saved. To assist with time management, the schedule is color-coded with the past being represented by gray, the present being represented by red, and the future being represented by green.
 
 ###### Step 1: See day and time.
-![Work Scheduler site Home page](/Assets/Pic1.png)
+![Work Scheduler site Home page](/Assets/images/Pic1.png)
 
 ###### Step 2: Enter your schedule, then save it. Delete or edit as needed. Refresh the page to see your saved schedule.
-![Work Scheduler save button](/Assets/Pic2.png)
+![Work Scheduler save button](/Assets/images/Pic2.png)
 
 ###### Step 3: Gray is past, red is present, green is future.
-![Work Scheduler distinct colors to show past/present/future](/Assets/Pic3.png)
+![Work Scheduler distinct colors to show past/present/future](/Assets/images/Pic3.png)
 
 ## Credits
 N/A
